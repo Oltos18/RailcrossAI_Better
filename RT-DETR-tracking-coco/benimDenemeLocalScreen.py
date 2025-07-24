@@ -197,7 +197,7 @@ class TimeTrackingWindow:
             
         self.window = tk.Toplevel()
         self.window.title("Time Tracking - Debug Log")
-        self.window.geometry("430x400")
+        self.window.geometry("500x500")
         self.window.configure(bg='#1e1e1e')
         
         # Make window stay on top
